@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat Jun 24 12:00:22 2023
+# Process ID: 10964
+# Current directory: D:/BarIlan/DDP/exercises/tutorial/vision_transformer_project/vision_transformer/8.6.23/MLP_final/MLP/MLP.runs/synth_1
+# Command line: vivado.exe -log mlp_unit.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source mlp_unit.tcl
+# Log file: D:/BarIlan/DDP/exercises/tutorial/vision_transformer_project/vision_transformer/8.6.23/MLP_final/MLP/MLP.runs/synth_1/mlp_unit.vds
+# Journal file: D:/BarIlan/DDP/exercises/tutorial/vision_transformer_project/vision_transformer/8.6.23/MLP_final/MLP/MLP.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source mlp_unit.tcl -notrace
